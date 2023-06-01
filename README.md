@@ -1,6 +1,9 @@
 # Practice1
-<h3>사용 언어</h3>
-<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=black"/> <img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=black"/> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
+### 사용언어
+<img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS3-1572b6?style=flat-square&logo=CSS3&logoColor=black"/>
+<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 디지털 하나로 1기 프론트엔드를 활용한 반응형 웹페이지를 구현하였습니다.
 

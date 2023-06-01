@@ -13,7 +13,7 @@
 <p><img src="https://github.com/HwangYoungHa/Practice1/assets/59431258/7a139fe1-479a-4afe-8f48-6b52d4285866" /></p>
 
 ### 메인페이지
-<p><img src="https://github.com/HwangYoungHa/Practice1/assets/59431258/cc3e699d-ab8a-4ad3-92a4-0aafac4daf29" width="600" height="400"></p>
+<p><img src="https://github.com/HwangYoungHa/Practice1/assets/59431258/cc3e699d-ab8a-4ad3-92a4-0aafac4daf29" width="1080" height="720"></p>
 
 
 ### 과정소개

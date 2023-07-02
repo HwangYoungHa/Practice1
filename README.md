@@ -15,10 +15,6 @@
  - 팀원1 : [남송윤](https://github.com/songy00n) - ERD 제작, 보이스피싱 예방 안내 메시지 전송/관리/내역 구현, PPT 제작
  - 팀원2 : [이수창](https://github.com/eternalclash) - 메인페이지, 수신 상품 프로모션 메시지 전송/관리/내역 구현, DB 인덱싱/샤딩 처리, 발표
  - 팀원3 : [황영하](https://github.com/HwangYoungHa) - ERD 제작, 전체 안내 메시지, 상환 안내 메시지 전송/관리/내역 구현, PPT 제작, 고객 데이터 생성
-![image](https://github.com/hanaro-messaging-service/backend/assets/59431258/dca59dc3-aa17-46f2-8bdd-a0e3ec5886bc)
-![image](https://github.com/hanaro-messaging-service/backend/assets/59431258/3d737849-5625-426f-9672-db6fffac14d4)
-![image](https://github.com/hanaro-messaging-service/backend/assets/59431258/c115a75d-3615-4142-b397-c532d6eaabe7)
-![image](https://github.com/hanaro-messaging-service/backend/assets/59431258/eb86d3c7-3f50-493b-b91a-060667171912)
 
 
 ## ⚙️ Stacks
@@ -37,7 +33,7 @@
 | <img width="329" src="https://github.com/hanaro-messaging-service/backend/assets/59431258/c115a75d-3615-4142-b397-c532d6eaabe7"/>   |  <img width="329" src="https://github.com/hanaro-messaging-service/backend/assets/59431258/eb86d3c7-3f50-493b-b91a-060667171912"/>     |
 
 ## 📦Features 
-### ⭐️ DB와 연동하여 고객 데이터 동적 출력
+### ⭐️ DB와 연동하여 고객 데이터를 동적으로 출력
 - 메시지 전송 페이지에서 고객정보 클릭할 때마다 출력 데이터 반영 후 최신화
 - DB에서 최대 10개씩만 읽어오는 방식의 페이지네이션으로 Read 속도 개선
 
